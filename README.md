@@ -8,7 +8,7 @@ This repository provides a SEG-Y file created from a Halloween image resembling 
 
 ## Download
 
-**[🎃 Download the Halloween SEG-Y file](halloween_pumpkin_synthetic_post_stack.sgy?raw=true)**
+**[🎃 Download the Halloween SEG-Y file](https://github.com/GeofEmersonAlves/halloween-segy/raw/refs/heads/main/halloween_pumpkin_synthetic_post_stack.sgy)**
 
 ## Meet SEG-Y Viewer
 
